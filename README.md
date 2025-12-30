@@ -1,2 +1,2 @@
-# perkotek-pdks
-Perkotek PDKS
+# Perkotek PDKS
+Perkotek Personel Devam Kontrol Sistemleri
